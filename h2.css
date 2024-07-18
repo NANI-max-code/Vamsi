@@ -1,0 +1,40 @@
+.head{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "caveat";
+}
+.para{
+    color: aqua;
+    font-family: "caveat";
+    padding: 10px;
+}
+.bg-con{
+    text-align: center;
+
+}
+.img-con{
+    width: 40vw;
+    
+  
+}
+#imgcon1{
+    text-align: center;
+}
+.but{
+    text-align: right;
+}
+.bg-con1{
+    background-image: url("https://wallpaperaccess.com/full/2416004.jpg");
+  
+    height: 100vh;
+    background-size: cover;
+}
+.img-con2{
+    width: 80vw;
+}
+.img-con3{
+    width: 50vw;
+}
